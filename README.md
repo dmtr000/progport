@@ -24,7 +24,8 @@
 
 - **Технологии**  
   - Backend: Node.js, Express, MongoDB + mongoose 
-  - Frontend: React, TypeScript, Vite  
+  - Frontend: React, TypeScript, Vite
+  - Styles: tailwindcss
   - Email-уведомления через SMTP
 
 
