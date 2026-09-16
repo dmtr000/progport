@@ -76,7 +76,7 @@ ProgPort — веб-приложение для школьников, котор
 
 ### Frontend
 
-- React 18
+- React
 - TypeScript
 - Vite
 - React Router
